@@ -23,8 +23,8 @@
   - Open the HW5.sln (if you have Visual Studio it will load the project for you by opening the .sln file)
 
 ## Step3:
-  - After the project is loaded in your Visual Studio "Solution explorer", right-click on the HW5Service project and go to "Debug" -> "Start Without Debugging"
-  - perform the same procedure for HW5 project
+  - After the project is loaded in your Visual Studio "Solution explorer", we need the API up and running by right-click on the "HW5Service" project and go to "Debug" -> "Start Without Debugging"
+  - After we have the API up and running, we can run the web application by perform the same procedure on "HW5" project.
 
 ## Step4:
   - Now you should see the application open up on your browser and it should look something like the image below, have fun!
