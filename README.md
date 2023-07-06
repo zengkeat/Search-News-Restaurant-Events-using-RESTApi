@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# Steps to setup the project in Visual Studio(Window):
+# Steps to setup the project in Visual Studio(Window) IDE:
 ## Step1:
   - Download the repository and unzip the file
 
