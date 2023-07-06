@@ -7,12 +7,14 @@
 
 <br>
 <br>
+
 # Requirement:  
   - You need to have Visual Studio Window version to run this program.
   - And download the ASP.NET extension to your Visual Studio
 
 <br>
 <br>
+
 # Step to setup the project using Visual Studio(Window):
 ## Step1:
   - Download the repository and unzip the file
@@ -25,5 +27,5 @@
   - perform the same procedure for HW5 project
 
 ## Step5:
-  - Now you should see the application open up on your browser and it should look something like the image below:
+  - Now you should see the application open up on your browser and it should look something like the image below, have fun!
   - <img width="959" alt="Screenshot 2023-07-06 at 1 11 06 PM" src="https://github.com/zengkeat/Search-News-Restaurant-Events-using-RESTApi/assets/42499826/4c26c606-9673-4108-a09d-8e6450257a11">
