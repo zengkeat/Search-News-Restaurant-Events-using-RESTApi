@@ -28,4 +28,4 @@
 
 ## Step4:
   - Now you should see the application open up on your browser and it should look something like the image below, have fun!
-  - <img width="959" alt="Screenshot 2023-07-06 at 1 11 06 PM" src="https://github.com/zengkeat/Search-News-Restaurant-Events-using-RESTApi/assets/42499826/4c26c606-9673-4108-a09d-8e6450257a11">
+   <img width="959" alt="Screenshot 2023-07-06 at 1 11 06 PM" src="https://github.com/zengkeat/Search-News-Restaurant-Events-using-RESTApi/assets/42499826/4c26c606-9673-4108-a09d-8e6450257a11">
