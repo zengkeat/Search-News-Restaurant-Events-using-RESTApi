@@ -1,0 +1,220 @@
+Name: Chelsea Cutler : When I Close My Eyes Tour
+Start Date: 2022-04-21T03:00:00Z
+URL: https://www.ticketweb.com/event/chelsea-cutler-when-i-marquee-theatre-tickets/11460745?REFERRAL_ID=tmfeed
+Descriptions: none
+location: 730 N. Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Chelsea Cutler : When I Close My Eyes Tour Balcony Section
+Start Date: 2022-04-21T03:00:00Z
+URL: https://www.ticketweb.com/event/chelsea-cutler-when-i-marquee-theatre-tickets/11460815?REFERRAL_ID=tmfeed
+Descriptions: none
+location: 730 N. Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Chelsea Cutler w/ Adam Melchor
+Start Date: 2022-04-21T03:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad1aPU
+Descriptions: none
+location: 730 N. Mill Avenue, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Bobby Lee
+Start Date: 2022-04-22T03:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad8OjJ
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Animals as Leaders
+Start Date: 2022-04-22T03:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1AduIfy
+Descriptions: none
+location: 730 N. Mill Avenue, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Animals As Leaders - BALCONY SECTION
+Start Date: 2022-04-22T03:00:00Z
+URL: https://www.ticketweb.com/event/animals-as-leaders-marquee-theatre-tickets/11693365
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: ANIMALS AS LEADERS - Parrhesia Tour
+Start Date: 2022-04-22T03:00:00Z
+URL: https://www.ticketweb.com/event/animals-as-leaders-marquee-theatre-tickets/11691795
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: KNIX Secret Show
+Start Date: 2022-04-23T02:00:00Z
+URL: https://www.ticketweb.com/event/knix-secret-show-marquee-theatre-tickets/11846895
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Bobby Lee
+Start Date: 2022-04-23T02:30:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad8OQ9
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Bobby Lee
+Start Date: 2022-04-23T05:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad8Oj3
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Bobby Lee
+Start Date: 2022-04-24T02:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad8Oqp
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Collie Buddz
+Start Date: 2022-04-24T03:00:00Z
+URL: https://www.ticketmaster.com/collie-buddz-tempe-arizona-04-23-2022/event/19005B7E9A5B1A50
+Descriptions: none
+location: 730 N. Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Collie Buddz - BALCONY SECTION
+Start Date: 2022-04-24T03:00:00Z
+URL: https://www.ticketmaster.com/collie-buddz-balcony-section-tempe-arizona-04-23-2022/event/19005B81BF581EEC
+Descriptions: none
+location: 730 N. Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Bobby Lee
+Start Date: 2022-04-24T04:30:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ad8O-z
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Thats Messed Up - An SVU Podcast
+Start Date: 2022-04-25T02:00:00Z
+URL: https://www.ticketmaster.com/event/Z7r9jZ1Ado8pv
+Descriptions: none
+location: 930 East University Drive, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Grateful Shred
+Start Date: 2022-04-25T04:00:00Z
+URL: https://www.ticketweb.com/event/grateful-shred-marquee-theatre-tickets/11753395
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Grateful Shred - BALCONY SECTION
+Start Date: 2022-04-25T04:00:00Z
+URL: https://www.ticketweb.com/event/grateful-shred-balcony-marquee-theatre-tickets/11753455
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Ace Frehley - BALCONY SECTION
+Start Date: 2022-04-27T03:00:00Z
+URL: https://www.ticketweb.com/event/ace-frehley-balcony-marquee-theatre-tickets/11839005
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Ace Frehley
+Start Date: 2022-04-27T03:00:00Z
+URL: https://www.ticketweb.com/event/ace-frehley-marquee-theatre-tickets/11838825
+Descriptions: none
+location: 730 N Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Jordan Davis: Buy Dirt Tour 2022
+Start Date: 2022-04-28T02:30:00Z
+URL: https://www.ticketweb.com/event/jordan-davis-buy-dirt-tour-marquee-theatre-tickets/11724375?REFERRAL_ID=tmfeed
+Descriptions: none
+location: 730 N. Mill Ave, Tempe, Arizona, 85281, United States Of America
+TimeZone: America/Phoenix
+
+Name: Spring Fairy Festival and Earth Day Celebration
+Start Date: Apr 23
+When: Sat, Apr 23, 10 AM – 4 PM MST
+URL: https://www.eventbrite.com/e/spring-fairy-festival-and-earth-day-celebration-tickets-271406814087
+Descriptions: Join the fairies in celebrating Earth Day! Includes a raffle ticket, fairy garden accessories and a planter. About this event Enjoy options for yummy food, craft activities, boutique shopping...
+location: Singh Meadows, 1490 E Weber Dr, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Kevin Nealon
+Start Date: Apr 29
+When: Fri, Apr 29 – Sat, Apr 30
+URL: https://www.tempeimprov.com/events/46584
+Descriptions: Kevin Nealon sets himself apart from other comedic performers with his unique sense of humor, dry wit and likeable demeanor. Nealon is best known for his nine-year stint as a cast member of NBC’s...
+location: Tempe Improv, 930 E University Dr, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Tim McGraw & Friends
+Start Date: Sep 17
+When: Sat, 2:00 – 11:30 PM
+URL: https://tickets.bootsinthepark.com/e/boots-in-the-park-presents-tim-mcgraw-az/tickets
+Descriptions: Buy your tickets and see show schedules for Tempe Beach Park, Tempe, AZ from Tempe Theatre. Upcoming events include - Tim McGraw.
+location: Tempe Beach Park, 80 W Rio Salado Pkwy, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Bobby Lee
+Start Date: Apr 21
+When: Thu, Apr 21 – Sat, Apr 23
+URL: https://www.ticketmaster.com/bobby-lee-tempe-04-21-2022/event/Z7r9jZ1Ad8OjJ
+Descriptions: Buy Bobby Lee tickets at the Tempe Improv in Tempe, AZ for Apr 21, 2022 at Ticketmaster.
+location: Tempe Improv, 930 E University Dr, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Joel Corry
+Start Date: Apr 24
+When: Sun, 10 AM – 9 PM
+URL: https://www.crowneplazaphx.com/events/maricopa-county/joel-corry-5440892
+Descriptions: Following our head + heart by going to Shady Park on 4/24 to see Joel Corry's Treehouse Sunday set! Support by: Rampant Jur Get your tix now tree🌳🎟️ tixr.com/e/36732
+location: Shady Park, 26 E University Dr, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: The AZST 420 Smokefest
+Start Date: Apr 21
+When: Today, 4 – 8 PM
+URL: https://www.eventbrite.com/e/the-azst-420-smokefest-tickets-312460877897
+Descriptions: The AZST’s 2nd Annual 4/20 celebration! Live Music, Vendors, Food Trucks, Raffles, Contests and more! About this event Come celebrate 420 with the AZST aka The AZ Smoking Team in Tempe! We will...
+location: Double Nickles Collective, Danelle Plaza, 45 W Southern Ave, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: HADESTOWN
+Start Date: Apr 21
+When: Tue, Apr 19 – Sun, Apr 24
+URL: https://www.asugammage.com/hadestown
+Descriptions: Welcome to HADESTOWN, where a song can change your fate. Winner of eight 2019 Tony Awards ® including Best Musical and the 2020 Grammy ® Award for Best Musical Theater Album, this acclaimed new...
+location: ASU Gammage, 1200 S Forest Ave, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Performances at Marquee Theatre
+Start Date: Apr 21
+When: Apr 13 – 27
+URL: https://www.tempetourism.com/events/performances-at-marquee-theatre/
+Descriptions: The Marquee Theatre is now open! With over 150 performances a year, The Marquee Theatre brings in some of the biggest names in the music industry today.
+location: Marquee Theatre Tempe, AZ, 730 N Mill Ave, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Room Tree
+Start Date: Apr 23
+When: Sat, 9 AM
+URL: http://www.songkick.com/concerts/40338317-bovine-fury-at-yucca-tap-room?utm_medium=organic&utm_source=microformat
+Descriptions: 
+location: Yucca Tap Room, 29 W Southern Ave, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
+Name: Hadestown
+Start Date: Apr 24
+When: Sun, 1 – 6 PM
+URL: https://onstageaz.com/events/hadestown-april-24/
+Descriptions: Welcome to HADESTOWN, where a song can change your fate. Winner of eight 2019 Tony Awards® including Best Musical and the 2020 Grammy® Award for Best Musical Theater Album, this acclaimed new show...
+location: ASU Gammage, 1200 S Forest Ave, Tempe, AZ
+TimeZone: America/Tempe, AZ
+
